@@ -1,8 +1,8 @@
 {
 	"name": "RocketChatRN",
 	"share": "ShareRocketChatRN",
-	"displayName": "RocketChatRN",
-	"server": "https://open.rocket.chat",
-	"appGroup": "group.ios.chat.rocket",
-	"appStoreID": "1272915472"
+	"displayName": "Chat Kmsoft",
+	"server": "https://chat.kmsoft.in",
+	"appGroup": "group.in.kmsoft.chat",
+	"appStoreID": "1667070825"
 }
