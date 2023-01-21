@@ -1,4 +1,4 @@
-package chat.rocket.reactnative;
+package in.kmsoft.chat;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
